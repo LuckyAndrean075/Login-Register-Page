@@ -10,7 +10,7 @@ import { MdLockOutline } from "react-icons/md";
 
 export default function Home() {
   return (
-    <main className="flex flex-col min-h-screen items-center justify-center bg-[url('../public/bg1.jpg')] bg-no-repeat">
+    <main className="flex flex-col min-h-screen items-center justify-center bg-[url('../public/bg1.jpg')]">
       <div className="flex flex-col items-center justify-center w-full flex-1 md:px-20 text-center ">
         <div className="bg-white md:rounded-2xl shadow-2xl shadow-black md:flex lg:w-5/6 md:max-w-4xl">
           {/* Kiri */}
